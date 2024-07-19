@@ -1,0 +1,36 @@
+/* @font-face {
+  font-family: "Acens";
+  src: local("Acens"), url("./fonts/acens.ttf") format("truetype");
+} */
+
+/* @font-face {
+  font-family: "Aeonik";
+  src: local("Aeonik"), url("./fonts/AeonikProTRIAL-Bold.otf") format("truetype");
+} */
+
+
+@import url("https://cdn-uicons.flaticon.com/2.0.0/uicons-thin-rounded/css/uicons-thin-rounded.css");
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700;800&family=Inter:wght@100;200;300;400;500;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  /* font-family: "Acens"; */
+  /* font-family: "Proxon"; */
+  scroll-behavior: smooth;
+  scrollbar-width: "0px";
+  -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+@font-face {
+  font-family: "Aeonik";
+  src: local("Aeonik"),
+    url("./fonts/Aeonik-Medium.otf") format("opentype");
+  font-weight: bold;
+}

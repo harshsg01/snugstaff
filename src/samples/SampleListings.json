@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7653e675-86cb-458c-a0c0-af6113c16c31",
+    "placeholder_name": "PROPER LISTING - CONTINENTAL",
+    "bathrooms": "5",
+    "rooms": "3",
+    "beds": "5",
+    "guests": 5,
+    "isLuxury": true,
+    "property_type": {
+      "id": "0a3efb13-bf61-40f5-9e0e-7153cec1d870",
+      "updated_at": "2023-12-01T11:40:05.607122Z",
+      "type_name": "Entire Home"
+    },
+    "pricing": "1499.9700",
+    "currency": {
+      "id": "f203bdea-1fd0-4d4f-99a6-d37f29bd21ab",
+      "updated_at": "2023-11-26T01:30:03.298970Z",
+      "currency_name": "USD",
+      "currency_sign": "$"
+    },
+    "average_rating": "0.00",
+    "property_images": [
+      {
+        "id": "df1dae87-5829-4126-b25f-2ab037ece963",
+        "raw_image": "https://fushiguro.eu.org//media/listings/c669ec9b-f901-4065-88ff-fb209a40cb7f.webp",
+        "raw_image": "https://fushiguro.eu.org//media/listings/processed_c669ec9b-f901-4065-88ff-fb209a40cb7f.webp"
+      },
+      {
+        "id": "1672aa1f-4e83-4da1-aedc-b94aa50d9e38",
+        "raw_image": "https://fushiguro.eu.org//media/listings/d8d629d7-9307-4b24-a8ae-b01d95e36124.webp",
+        "raw_image": "https://fushiguro.eu.org//media/listings/processed_d8d629d7-9307-4b24-a8ae-b01d95e36124.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc",
+    "placeholder_name": "SOME AIRBNB LISTING",
+    "bathrooms": "4",
+    "rooms": "5",
+    "beds": "2",
+    "guests": 3,
+    "isLuxury": false,
+    "property_type": {
+      "id": "0a3efb13-bf61-40f5-9e0e-7153cec1d870",
+      "updated_at": "2023-12-01T11:40:05.607122Z",
+      "type_name": "Entire Home"
+    },
+    "pricing": "499.0000",
+    "currency": {
+      "id": "538de635-73db-489c-ac68-1e2ec37f3d0a",
+      "updated_at": "2023-11-15T00:00:00Z",
+      "currency_name": "GPB",
+      "currency_sign": "£"
+    },
+    "average_rating": "3.50",
+    "property_images": [
+      {
+        "id": "df1dae87-5829-4126-b25f-2ab037ece963",
+        "raw_image": "https://fushiguro.eu.org//media/listings/c669ec9b-f901-4065-88ff-fb209a40cb7f.webp",
+        "raw_image": "https://fushiguro.eu.org//media/listings/processed_c669ec9b-f901-4065-88ff-fb209a40cb7f.webp"
+      },
+      {
+        "id": "8ea6e42b-a5d7-47f0-8874-bf46f234225d",
+        "raw_image": "https://fushiguro.eu.org//media/listings/1a284fe1-9332-412d-9635-4fefb3ca124d.webp",
+        "raw_image": "https://fushiguro.eu.org//media/listings/processed_1a284fe1-9332-412d-9635-4fefb3ca124d.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "af12fa8a-1979-4b7c-a31d-4661d19b62db",
+    "placeholder_name": "DUH",
+    "bathrooms": "4",
+    "rooms": "5",
+    "beds": "2",
+    "guests": 3,
+    "isLuxury": false,
+    "property_type": {
+      "id": "0a3efb13-bf61-40f5-9e0e-7153cec1d870",
+      "updated_at": "2023-12-01T11:40:05.607122Z",
+      "type_name": "Entire Home"
+    },
+    "pricing": "499.0000",
+    "currency": {
+      "id": "538de635-73db-489c-ac68-1e2ec37f3d0a",
+      "updated_at": "2023-11-15T00:00:00Z",
+      "currency_name": "GPB",
+      "currency_sign": "£"
+    },
+    "average_rating": "4.80",
+    "property_images": [
+      {
+        "id": "1672aa1f-4e83-4da1-aedc-b94aa50d9e38",
+        "raw_image": "https://fushiguro.eu.org//media/listings/d8d629d7-9307-4b24-a8ae-b01d95e36124.webp",
+        "raw_image": "https://fushiguro.eu.org//media/listings/processed_d8d629d7-9307-4b24-a8ae-b01d95e36124.webp"
+      }
+    ]
+  }
+]

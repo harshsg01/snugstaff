@@ -1,0 +1,396 @@
+{
+    "id": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+    "ammeneties_offered": [
+        {
+            "id": "751fc08b-fd7d-4f00-8395-d570252a32cd",
+            "updated_at": "2024-02-24T08:49:24.169246Z",
+            "ammenetie_name": "Free Wifi Internet",
+            "icon": "fi fi-tr-wifi"
+        }
+    ],
+    "creator": {
+        "id": "4e2475e8-4d72-4961-8b38-a75a5f9528e2",
+        "first_name": "Disastrous",
+        "last_name": "",
+        "image": null,
+        "username": "disastrous087",
+        "email": "disastrous087@gmail.com",
+        "user_type": "Host",
+        "is_team_head": false,
+        "isActive": true,
+        "date_joined": [
+            {
+                "day": 22
+            },
+            {
+                "month": 2
+            },
+            {
+                "year": 2024
+            }
+        ],
+        "address": "62, Behind Aanand Tailors, Vallabh nagar, New Dewas Road, Indore",
+        "city": "",
+        "country": "",
+        "zipcode": 0,
+        "phone": "07477028192",
+        "user_documents": null,
+        "vat": false,
+        "reg_company_name": "",
+        "company_reg_number": "",
+        "subscription_plan": "not applicable",
+        "subcription_status": false,
+        "date_raw": "Thursday, 2024-02-22"
+    },
+    "room_type": {
+        "id": "85f401a0-5a15-4e9c-b0e1-d5b9ab87edb7",
+        "type_name": "Houses"
+    },
+    "property_images": [
+        {
+            "id": "d749c53e-69e0-4d5d-bb86-32d774e5a985",
+            "raw_image": "https://gemmaedens.co.uk/media/listings/prameya7_mzyAymb.jpg",
+            "processed_image": "https://gemmaedens.co.uk/media/listings/processed_prameya7.jpg",
+            "hash": "pYLzv.t5TeIUMxkBaJyZNLaKf,kDozW=rWadIooIoKV@j]xtV?V@fkj?jZaeXAogV@V@f5WBWY%1t6o#ofkCWVV@"
+        },
+        {
+            "id": "6121fab5-8990-49ba-995d-7d27f746b148",
+            "raw_image": "https://gemmaedens.co.uk/media/listings/prameya9_cGeBrva.jpg",
+            "processed_image": "https://gemmaedens.co.uk/media/listings/processed_prameya9.jpg",
+            "hash": "pNLEKL-;%M9E~qx]?b~qt7f6WVogt7of%2M{R*xuRiV[IU_4bHIUtQWBayWAV@M{xuj[Rit7oLs;j[ofayRjayof"
+        },
+        {
+            "id": "4adea874-f3e1-4378-ab26-ec76951568b6",
+            "raw_image": "https://gemmaedens.co.uk/media/listings/prameya8_3C8hfZD.jpg",
+            "processed_image": "https://gemmaedens.co.uk/media/listings/processed_prameya8.jpg",
+            "hash": "pYJ[Cpnhocofs:-:sl~qWXogj[ofWBf,WYt8IUadflR.kCn#oItRWYaejXadxuRkj]M{WBozWD%2jYWAoffkRjjZ"
+        },
+        {
+            "id": "2d023c05-afce-410a-a43c-d23adba6de3e",
+            "raw_image": "https://gemmaedens.co.uk/media/listings/prameya10.jpg",
+            "processed_image": "https://gemmaedens.co.uk/media/listings/processed_prameya10.jpg",
+            "hash": "pfJ[9gM{-=ozt6s:jZ~qozWCt7V@WAf6oJWBM_ofofazWVSOR*Riaet7kCfkxukCWBj@WBWBj]t7oft7aeWBWCbH"
+        }
+    ],
+    "featured_image": {
+        "id": "d749c53e-69e0-4d5d-bb86-32d774e5a985",
+        "raw_image": "https://gemmaedens.co.uk/media/listings/prameya7_mzyAymb.jpg",
+        "processed_image": "https://gemmaedens.co.uk/media/listings/processed_prameya7.jpg",
+        "hash": "pYLzv.t5TeIUMxkBaJyZNLaKf,kDozW=rWadIooIoKV@j]xtV?V@fkj?jZaeXAogV@V@f5WBWY%1t6o#ofkCWVV@"
+    },
+    "property_type": {
+        "id": "e73c315d-6147-4362-8ac7-40cef6c6dffc",
+        "updated_at": "2024-02-21T10:39:49.693094Z",
+        "type_name": "Rooms"
+    },
+    "currency": {
+        "id": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc",
+        "updated_at": "2024-02-21T07:11:03.537997Z",
+        "currency_name": "GBP",
+        "currency_sign": "£"
+    },
+    "listing_reviews": [],
+    "listing_bookings": [
+        {
+            "id": "7db23dd3-5476-4fc8-ab21-369050b4a6e6",
+            "booking_user": {
+                "id": "4e2475e8-4d72-4961-8b38-a75a5f9528e2",
+                "first_name": "Disastrous",
+                "last_name": "",
+                "image": null,
+                "username": "disastrous087",
+                "email": "disastrous087@gmail.com",
+                "user_type": "Host",
+                "is_team_head": false,
+                "isActive": true,
+                "date_joined": [
+                    {
+                        "day": 22
+                    },
+                    {
+                        "month": 2
+                    },
+                    {
+                        "year": 2024
+                    }
+                ],
+                "address": "62, Behind Aanand Tailors, Vallabh nagar, New Dewas Road, Indore",
+                "city": "",
+                "country": "",
+                "zipcode": 0,
+                "phone": "07477028192",
+                "user_documents": null,
+                "vat": false,
+                "reg_company_name": "",
+                "company_reg_number": "",
+                "subscription_plan": "not applicable",
+                "subcription_status": false,
+                "date_raw": "Thursday, 2024-02-22"
+            },
+            "created_at": "2024-02-26T15:56:47.992453Z",
+            "updated_at": "2024-02-26T15:57:03.138675Z",
+            "booking_start": "2024-03-03T18:30:00Z",
+            "booking_end": "2024-03-07T18:30:00Z",
+            "is_accepted": true,
+            "is_cancelled": false,
+            "reg_company_name": "xfhbvjhd",
+            "comp_house_reg_number": "",
+            "is_vat": false,
+            "stay_details": {
+                "beds": 2,
+                "guests": 2,
+                "parking": true,
+                "bedrooms": 2,
+                "bathrooms": 2
+            },
+            "booked_listing": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+            "booking_currency": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc"
+        },
+        {
+            "id": "0c5f3e8f-9d3a-4044-843f-af3bf2ffeafa",
+            "booking_user": {
+                "id": "e79e45ce-07f5-4bb5-9f78-8040816f3d4e",
+                "first_name": "New",
+                "last_name": "Itnest",
+                "image": null,
+                "username": "newitnest",
+                "email": "newitnest@gmail.com",
+                "user_type": "Member",
+                "is_team_head": false,
+                "isActive": true,
+                "date_joined": [
+                    {
+                        "day": 22
+                    },
+                    {
+                        "month": 2
+                    },
+                    {
+                        "year": 2024
+                    }
+                ],
+                "address": "",
+                "city": null,
+                "country": null,
+                "zipcode": 0,
+                "phone": null,
+                "user_documents": null,
+                "vat": false,
+                "reg_company_name": null,
+                "company_reg_number": null,
+                "subscription_plan": "month",
+                "subcription_status": false,
+                "date_raw": "Thursday, 2024-02-22"
+            },
+            "created_at": "2024-02-25T16:14:56.572638Z",
+            "updated_at": "2024-02-25T17:31:21.618660Z",
+            "booking_start": "2024-03-03T00:00:00Z",
+            "booking_end": "2024-03-30T00:00:00Z",
+            "is_accepted": true,
+            "is_cancelled": true,
+            "reg_company_name": "",
+            "comp_house_reg_number": "",
+            "is_vat": false,
+            "stay_details": {
+                "beds": 1,
+                "guests": 1,
+                "parking": true,
+                "bedrooms": 1,
+                "bathrooms": 1
+            },
+            "booked_listing": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+            "booking_currency": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc"
+        },
+        {
+            "id": "e7b6d879-d62b-498a-8ea0-faba169cfff5",
+            "booking_user": {
+                "id": "e79e45ce-07f5-4bb5-9f78-8040816f3d4e",
+                "first_name": "New",
+                "last_name": "Itnest",
+                "image": null,
+                "username": "newitnest",
+                "email": "newitnest@gmail.com",
+                "user_type": "Member",
+                "is_team_head": false,
+                "isActive": true,
+                "date_joined": [
+                    {
+                        "day": 22
+                    },
+                    {
+                        "month": 2
+                    },
+                    {
+                        "year": 2024
+                    }
+                ],
+                "address": "",
+                "city": null,
+                "country": null,
+                "zipcode": 0,
+                "phone": null,
+                "user_documents": null,
+                "vat": false,
+                "reg_company_name": null,
+                "company_reg_number": null,
+                "subscription_plan": "month",
+                "subcription_status": false,
+                "date_raw": "Thursday, 2024-02-22"
+            },
+            "created_at": "2024-02-25T16:07:15.420514Z",
+            "updated_at": "2024-02-25T16:07:37.600748Z",
+            "booking_start": "2024-03-03T00:00:00Z",
+            "booking_end": "2024-03-30T00:00:00Z",
+            "is_accepted": true,
+            "is_cancelled": false,
+            "reg_company_name": "",
+            "comp_house_reg_number": "",
+            "is_vat": false,
+            "stay_details": {
+                "beds": 1,
+                "guests": 1,
+                "parking": true,
+                "bedrooms": 1,
+                "bathrooms": 1
+            },
+            "booked_listing": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+            "booking_currency": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc"
+        },
+        {
+            "id": "8ebef0a9-c68b-4cd2-8108-6a1cf36a8628",
+            "booking_user": {
+                "id": "99904d94-86a3-4eac-9e93-61af1abf9808",
+                "first_name": "Anshuman",
+                "last_name": "Parmar",
+                "image": null,
+                "username": "anshumansp16",
+                "email": "anshumansp16@gmail.com",
+                "user_type": "Host",
+                "is_team_head": false,
+                "isActive": true,
+                "date_joined": [
+                    {
+                        "day": 23
+                    },
+                    {
+                        "month": 2
+                    },
+                    {
+                        "year": 2024
+                    }
+                ],
+                "address": "R-272, Amaltash Phase-2\r\nShatabdipuram, Old Railway Line,",
+                "city": null,
+                "country": null,
+                "zipcode": 0,
+                "phone": "7477028192",
+                "user_documents": null,
+                "vat": false,
+                "reg_company_name": null,
+                "company_reg_number": null,
+                "subscription_plan": "None",
+                "subcription_status": false,
+                "date_raw": "Friday, 2024-02-23"
+            },
+            "created_at": "2024-02-23T19:42:23.240821Z",
+            "updated_at": "2024-02-23T19:42:23.240839Z",
+            "booking_start": "2024-02-23T19:41:58.282000Z",
+            "booking_end": "2024-02-25T19:41:58.282000Z",
+            "is_accepted": false,
+            "is_cancelled": false,
+            "reg_company_name": "",
+            "comp_house_reg_number": "",
+            "is_vat": false,
+            "stay_details": {
+                "beds": 2,
+                "guests": 4,
+                "parking": true,
+                "bedrooms": 2,
+                "bathrooms": 2
+            },
+            "booked_listing": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+            "booking_currency": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc"
+        },
+        {
+            "id": "89e224c9-1fe4-4cf6-af03-90eccaa2cc28",
+            "booking_user": {
+                "id": "46997069-9b93-4e21-be7f-5e63b5a4c2e8",
+                "first_name": "Gemma",
+                "last_name": "Edens",
+                "image": null,
+                "username": "gemmaedens",
+                "email": "gemmahall45@hotmail.co.uk",
+                "user_type": "Member",
+                "is_team_head": false,
+                "isActive": false,
+                "date_joined": [
+                    {
+                        "day": 23
+                    },
+                    {
+                        "month": 2
+                    },
+                    {
+                        "year": 2024
+                    }
+                ],
+                "address": "86 Wolsey Way",
+                "city": null,
+                "country": null,
+                "zipcode": 0,
+                "phone": "07361616598",
+                "user_documents": null,
+                "vat": false,
+                "reg_company_name": null,
+                "company_reg_number": null,
+                "subscription_plan": "month",
+                "subcription_status": false,
+                "date_raw": "Friday, 2024-02-23"
+            },
+            "created_at": "2024-02-23T14:19:13.058024Z",
+            "updated_at": "2024-02-23T14:19:13.058042Z",
+            "booking_start": "2024-09-21T23:00:00Z",
+            "booking_end": "2024-09-24T23:00:00Z",
+            "is_accepted": false,
+            "is_cancelled": false,
+            "reg_company_name": "",
+            "comp_house_reg_number": "",
+            "is_vat": false,
+            "stay_details": {
+                "beds": 1,
+                "guests": 1,
+                "parking": true,
+                "bedrooms": 3,
+                "bathrooms": 1
+            },
+            "booked_listing": "d98cf8d5-9e08-49d3-bb6d-5f4222bc74ec",
+            "booking_currency": "9fd3a147-4f8f-40ab-a2b3-bbe768a19afc"
+        }
+    ],
+    "listing_location": "Lincoln, Lincolnshire, UK",
+    "updated_at": "2024-02-23T20:13:44.353064Z",
+    "bathrooms": 2,
+    "rooms": 2,
+    "beds": 2,
+    "guests": 4,
+    "isLuxury": false,
+    "isParking": true,
+    "isLive": false,
+    "placeholder_name": "Romero Rooms",
+    "pricing": 1200,
+    "average_rating": "0.00",
+    "total_reviews": 0,
+    "short_description": "House-Modern-Private Countryside view-Modern New Build House - Base Rate",
+    "long_description": "Testing sfbvbfvbdfbvfvdfv dfvdfhbkldfkbdfb",
+    "features": "",
+    "geo_location": "SRID=4326;POINT (0 0)",
+    "service_fees": 100,
+    "stats": {
+        "avg_rating": 0,
+        "total_reviews": 0,
+        "avg_clean_rating": 0,
+        "avg_location_rating": 0,
+        "avg_comfort_rating": 0,
+        "avg_amenities_rating": 0
+    }
+}

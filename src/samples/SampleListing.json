@@ -1,0 +1,215 @@
+{
+    "results": {
+      "id": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc",
+      "ammeneties_offered": [
+        {
+          "id": "12ef8c9d-baba-4ab5-8ac1-f5d93b130302",
+          "updated_at": "2023-11-17T00:00:00Z",
+          "ammenetie_name": "SWIMMING"
+        },
+        {
+          "id": "998a9254-916e-4994-9423-5be0d4ae07f2",
+          "updated_at": "2023-11-17T00:00:00Z",
+          "ammenetie_name": "PARK"
+        }
+      ],
+      "creator": {
+        "id": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+        "first_name": "PERU",
+        "last_name": "CODER",
+        "profile": null,
+        "username": "unravler",
+        "email": "admin@unravler.eu.org",
+        "user_type": "Admin",
+        "is_team_head": true,
+        "is_active": true
+      },
+      "room_type": {
+        "id": "486a8145-6eaf-4df0-8db9-62989375be67",
+        "type_name": "Suit"
+      },
+      "property_images": [
+        {
+          "id": "df1dae87-5829-4126-b25f-2ab037ece963",
+          "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/c669ec9b-f901-4065-88ff-fb209a40cb7f.webp",
+          "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/processed_c669ec9b-f901-4065-88ff-fb209a40cb7f.webp"
+        },
+        {
+          "id": "8ea6e42b-a5d7-47f0-8874-bf46f234225d",
+          "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/1a284fe1-9332-412d-9635-4fefb3ca124d.webp",
+          "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/processed_1a284fe1-9332-412d-9635-4fefb3ca124d.webp"
+        }
+      ],
+      "property_type": {
+        "id": "0a3efb13-bf61-40f5-9e0e-7153cec1d870",
+        "updated_at": "2023-12-01T11:40:05.607122Z",
+        "type_name": "Entire Home"
+      },
+      "currency": {
+        "id": "538de635-73db-489c-ac68-1e2ec37f3d0a",
+        "updated_at": "2023-11-15T00:00:00Z",
+        "currency_name": "GPB",
+        "currency_sign": "£"
+      },
+      "listing_reviews": [
+        {
+          "id": "57b07fa8-27e2-478c-85a9-fc40109794d1",
+          "created_at": "2023-11-19T19:34:20.058267Z",
+          "updated_at": "2023-11-19T19:34:20.058267Z",
+          "title": "semms good so far.",
+          "review": "BERY GUD LISTING.",
+          "ratings": 2.5,
+          "creator": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+          "listing": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc"
+        },
+        {
+          "id": "9ae3405b-42f1-4a00-bd8f-ddeb07447571",
+          "created_at": "2023-11-18T04:29:51.716243Z",
+          "updated_at": "2023-11-19T19:35:17.526641Z",
+          "title": "[edit] semms good so far",
+          "review": "BERY GUD LISTING.",
+          "ratings": 2.5,
+          "creator": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+          "listing": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc"
+        },
+        {
+          "id": "7dfba059-6d44-4841-ae01-f59d8f2eb7e7",
+          "created_at": "2023-11-23T00:36:40.174467Z",
+          "updated_at": "2023-11-23T00:36:40.174533Z",
+          "title": "semms good so far.",
+          "review": "BERY GUD LISTING. test review nigga",
+          "ratings": 4.5,
+          "creator": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+          "listing": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc"
+        },
+        {
+          "id": "4d5d0fe0-068f-4ab6-a366-4088bd0d27b4",
+          "created_at": "2023-11-23T00:37:36.382116Z",
+          "updated_at": "2023-11-23T00:37:36.382160Z",
+          "title": "semms good so far.",
+          "review": "BERY GUD LISTING. test review nigga",
+          "ratings": 4.5,
+          "creator": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+          "listing": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc"
+        },
+        {
+          "id": "03c7355b-0b35-4243-be10-a19710144a66",
+          "created_at": "2023-11-23T00:39:34.031503Z",
+          "updated_at": "2023-11-23T00:39:34.031509Z",
+          "title": "semms good so far.",
+          "review": "BERY GUD LISTING. test review nigga 4th",
+          "ratings": 4.2,
+          "creator": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+          "listing": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc"
+        }
+      ],
+      "listing_bookings": [
+        {
+          "id": "b91dc617-0c7d-461b-9e11-2faae69c514b",
+          "booked_users": [
+            {
+              "id": "fd0c8690-14c4-43ff-8954-a4537dfa90d3",
+              "created_at": "2023-11-20T00:45:37.581681Z",
+              "updated_at": "2023-11-20T13:59:25.313100Z",
+              "name": "nullCrex Unravler",
+              "email": "admin@unravler.eu.org"
+            },
+            {
+              "id": "afc7dc83-2141-4630-b2b3-83565eb930b8",
+              "created_at": "2023-11-20T14:18:03.132804Z",
+              "updated_at": "2023-11-20T14:18:03.167273Z",
+              "name": "nullCrex",
+              "email": "nulcrexer@gmail.com"
+            }
+          ],
+          "booking_user": {
+            "id": "0472037e-b1f2-44fd-9e8c-a37da74c191c",
+            "first_name": "PERU",
+            "last_name": "CODER",
+            "profile": null,
+            "username": "unravler",
+            "email": "admin@unravler.eu.org",
+            "user_type": "Admin",
+            "is_team_head": true,
+            "is_active": true
+          },
+          "booked_listing": {
+            "id": "b6abc255-d08d-4dcc-95a6-46179b5ef6bc",
+            "placeholder_name": "Modern Places",
+            "ammeneties_offered": [
+              {
+                "id": "12ef8c9d-baba-4ab5-8ac1-f5d93b130302",
+                "updated_at": "2023-11-17T00:00:00Z",
+                "ammenetie_name": "SWIMMING"
+              },
+              {
+                "id": "998a9254-916e-4994-9423-5be0d4ae07f2",
+                "updated_at": "2023-11-17T00:00:00Z",
+                "ammenetie_name": "PARK"
+              }
+            ],
+            "bathrooms": "4",
+            "rooms": "5",
+            "beds": "2",
+            "guests": 3,
+            "isLuxury": false,
+            "property_type": {
+              "id": "0a3efb13-bf61-40f5-9e0e-7153cec1d870",
+              "updated_at": "2023-12-01T11:40:05.607122Z",
+              "type_name": "Entire Home"
+            },
+            "pricing": "499.0000",
+            "currency": {
+              "id": "538de635-73db-489c-ac68-1e2ec37f3d0a",
+              "updated_at": "2023-11-15T00:00:00Z",
+              "currency_name": "GPB",
+              "currency_sign": "£"
+            },
+            "average_rating": "3.50",
+            "property_images": [
+              {
+                "id": "df1dae87-5829-4126-b25f-2ab037ece963",
+                "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/c669ec9b-f901-4065-88ff-fb209a40cb7f.webp",
+                "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/processed_c669ec9b-f901-4065-88ff-fb209a40cb7f.webp"
+              },
+              {
+                "id": "8ea6e42b-a5d7-47f0-8874-bf46f234225d",
+                "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/1a284fe1-9332-412d-9635-4fefb3ca124d.webp",
+                "raw_image": "https://awake-quail-externally.ngrok-free.app/media/listings/processed_1a284fe1-9332-412d-9635-4fefb3ca124d.webp"
+              }
+            ],
+            "featured_image": "8ea6e42b-a5d7-47f0-8874-bf46f234225d"
+          },
+          "created_at": "2023-11-25T18:16:48.718399Z",
+          "updated_at": "2023-12-01T11:19:37.770953Z",
+          "booking_start": "2023-11-25T18:16:29Z",
+          "booking_end": "2023-11-15T18:16:38Z",
+          "is_accepted": true,
+          "booking_currency": "f203bdea-1fd0-4d4f-99a6-d37f29bd21ab",
+          "payment": "1bb5f1b5-f6d9-4bf3-bfc5-ea014f1a0686"
+        }
+      ],
+      "updated_at": "2023-12-03T22:30:53.542894Z",
+      "bathrooms": "4",
+      "rooms": "5",
+      "beds": "2",
+      "guests": 3,
+      "isLuxury": false,
+      "isParking": false,
+      "placeholder_name": "Modern Places",
+      "pricing": "499.0000",
+      "average_rating": "3.50",
+      "total_reviews": 2,
+      "short_description": "DUH short_description",
+      "long_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "features": [
+        {
+          "feature_name": "Bery Good Cleaning"
+        },
+        {
+          "feature_name": "Bery Good Essence"
+        }
+      ],
+      "featured_image": "8ea6e42b-a5d7-47f0-8874-bf46f234225d"
+    }
+}

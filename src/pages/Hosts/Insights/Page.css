@@ -1,0 +1,226 @@
+/* view */
+
+.ViewsCard {
+  width: 100%;
+}
+
+.Review {
+  font-size: 34px;
+}
+
+.review_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid rgb(184, 183, 183);
+  border-radius: 10px;
+  padding: 2.6rem 0 2.6rem 0;
+  margin-top: 3rem;
+}
+
+.starIcon {
+  color: rgb(180, 93, 122);
+}
+
+.ReviewHeading {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0;
+}
+
+.revieSubheading {
+  color: rgb(85, 85, 85);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 0;
+}
+
+.year_container {
+  color: rgb(56, 56, 56);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgb(196, 196, 196);
+}
+
+.listing_card {
+  color: rgb(39, 39, 39);
+  font-size: 18px;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid rgb(196, 196, 196);
+}
+
+.currentYear {
+  font-size: 20px;
+  color: rgb(63, 63, 63);
+}
+
+.viewsDetails {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.6rem;
+  color: rgb(39, 39, 39);
+
+  border-bottom: 1px solid rgb(196, 196, 196);
+}
+
+/* Earning */
+.Select_month_header {
+  margin-top: 2rem;
+  color: rgb(0, 0, 0);
+  font-size: 1.4rem;
+  margin-bottom: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.currencyHeader {
+  margin-top: 4rem;
+  font-size: 2.8rem;
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+
+  line-height: 0.6;
+}
+
+.BookedEaring {
+  line-height: 3;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}
+
+.paidOutContainer {
+  line-height: 0.8;
+  margin: 3rem 0 0 0;
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 26px;
+}
+
+.earningData {
+  display: flex;
+  gap: 3rem;
+}
+
+.paidTextBox {
+  color: rgb(2, 2, 2);
+  font-size: 16px;
+}
+
+.boxDesign {
+  width: 18px;
+  height: 18px;
+  background-color: rgb(19, 18, 18);
+}
+
+.Expected {
+  background-color: rgb(144, 144, 144);
+}
+
+.symblecontainer {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.earningRow {
+  display: flex;
+  gap: 0.8rem;
+  flex-direction: column;
+}
+
+.EarningLineChart {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+/* Views */
+
+.Views_container {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.View_card {
+  border: 1px solid #cbcbcb;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 0.4rem 0.6rem;
+  min-width: 160px;
+  max-width: 160px;
+  height: 100px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 729px) {
+  .Views_container {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .View_card {
+    padding: 0.4rem 0.6rem;
+    min-width: 160px;
+    max-width: 160px;
+    height: 100px;
+  }
+}
+
+.View_card>h1 {
+  color: rgb(58, 58, 58);
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.View_card>p {
+  color: rgb(58, 58, 58);
+  font-size: 16px;
+}
+
+.lineChartCard {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.viewsCard {
+  rotate: 90deg;
+  font-weight: 600;
+  color: rgb(58, 58, 58);
+}
+
+.month_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  color: #212121;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.monthLeft_card {
+  display: flex;
+  color: #3a3a3a;
+}
+
+.issue_list {
+  width: 60%;
+}
+
+.IssueContainer {
+  font-weight: 600;
+  color: #4a4848;
+}
+
+.IssueDisplay {
+  color: rgb(85, 84, 84);
+}
